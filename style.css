@@ -138,3 +138,20 @@ main img {
 #survey button {
     margin-top: 15px;
 }
+#contact {
+    padding: 70px 20px;
+    background: #0b0b0b;
+    border-top: 1px solid #00d9ff;
+}
+
+#contact h2 {
+    color: #00d9ff;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#contact p {
+    color: #aaa;
+    font-size: 17px;
+    margin-bottom: 15px;
+}
