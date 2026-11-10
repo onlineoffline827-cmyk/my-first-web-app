@@ -63,3 +63,12 @@ footer {
     padding: 20px;
     color: #777;
 }
+main img {
+    width: 280px;
+    max-width: 90%;
+    height: auto;
+    border-radius: 15px;
+    border: 2px solid #00d9ff;
+    box-shadow: 0 0 25px #00d9ff;
+    margin: 25px 0;
+}
