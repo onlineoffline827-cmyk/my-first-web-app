@@ -117,3 +117,24 @@ main img {
     margin-bottom: 15px;
     letter-spacing: 2px;
 }
+#survey {
+    padding: 70px 20px;
+    background: #050505;
+    border-top: 1px solid #00d9ff;
+}
+
+#survey h2 {
+    color: #00d9ff;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#survey p {
+    color: #aaa;
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+
+#survey button {
+    margin-top: 15px;
+}
