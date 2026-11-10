@@ -93,3 +93,27 @@ main img {
 .navbar a:hover {
     color: white;
 }
+#about {
+    padding: 70px 20px;
+    background: #0b0b0b;
+    border-top: 1px solid #00d9ff;
+}
+
+#about h2 {
+    color: #00d9ff;
+    font-size: 28px;
+    margin-bottom: 25px;
+}
+
+#about p {
+    color: #aaa;
+    font-size: 17px;
+    line-height: 1.8;
+    margin-bottom: 25px;
+}
+
+#about h3 {
+    color: white;
+    margin-bottom: 15px;
+    letter-spacing: 2px;
+}
